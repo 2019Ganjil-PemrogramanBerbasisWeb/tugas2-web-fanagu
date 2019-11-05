@@ -20,22 +20,15 @@ include 'conn.php';
 // menangkap data yang dikirim dari form
 $email = $_POST['email'];
 $password = $_POST['password'];
-
-$hass=hash('sha256',$password);
  
 // menyeleksi data admin dengan username dan password yang sesuai
-$data = mysqli_query($conn,"SELECT email,password FROM signup WHERE email='$email' and password='$hass'");
-
-$nama = mysqli_query($conn,"SELECT username FROM signup WHERE email='$email' and password='$hass'");
- 
+$data = mysqli_query($conn,"SELECT email,password FROM signup WHERE email='$email' and password='$password'");
  
 // menghitung jumlah data yang ditemukan
 $cek = mysqli_num_rows($data);
  
 if($cek > 0){
-	session_start();
 	$_SESSION['email'] = $email;
-	 
 	$_SESSION['status'] = "login";
 	header("location:index.php");
 }else{
@@ -57,9 +50,9 @@ if($cek > 0){
 		
 		<p class="tulisan_login">Mlaku.id</p>
 		<?php if ($msg != "") { ?> <div class="alert alert-warning" role="alert"><?php echo $msg;?>
-                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <!--<button type="button" class="close" data-dismiss="alert" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
-                    </button>
+                    </button>-->
                 </div><?php }?>
 		<form method="POST" action="login.php">
 			<label>Email</label>
