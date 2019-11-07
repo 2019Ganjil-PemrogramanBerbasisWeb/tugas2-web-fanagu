@@ -19,10 +19,10 @@ include 'conn.php';
  
 // menangkap data yang dikirim dari form
 $email = $_POST['email'];
-$password = $_POST['password'];
+$hass=hash('sha256',$_POST['password']);
  
 // menyeleksi data admin dengan username dan password yang sesuai
-$data = mysqli_query($conn,"SELECT email,password FROM signup WHERE email='$email' and password='$password'");
+$data = mysqli_query($conn,"SELECT * FROM signup WHERE email='$email' and password='$hass'");
  
 // menghitung jumlah data yang ditemukan
 $cek = mysqli_num_rows($data);
@@ -56,10 +56,10 @@ if($cek > 0){
                 </div><?php }?>
 		<form method="POST" action="login.php">
 			<label>Email</label>
-			<input type="text" name="email" class="form_login" placeholder="Email">
+			<input type="text" name="email" class="form_login" placeholder="Email" required>
 
 			<label>Password</label>
-			<input type="password" name="password" class="form_login" placeholder="Password">
+			<input type="password" name="password" class="form_login" placeholder="Password" required>
 
 			<input type="submit" class="tombol_login" value="LOGIN" name="login" id="login">
 

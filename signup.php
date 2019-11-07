@@ -13,23 +13,23 @@
  	<link href="conn.php">
 	<title>Login | Mlaku.id</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
-</head>
+</head	>
 <body> 
 
 	<div class="kotak_login">
 		<p class="tulisan_login">Mlaku.id</p>
 
-		<form method="post" action="signuptest.php">
+		<form method="POST" action="signuptest.php">
 			<label>Username</label>
-			<input type="text" name="username" class="form_login" placeholder="Username">
+			<input type="text" name="username" class="form_login" placeholder="Username" required>
 
 			<label>Email</label>
-			<input type="text" name="email" class="form_login" placeholder="Email">
+			<input type="text" name="email" class="form_login" placeholder="Email" required>
 
 			<label>Password</label>
-			<input type="password" name="password" class="form_login" placeholder="Password">
+			<input type="password" name="password" class="form_login" placeholder="Password" required>
 
-			<input type="submit" class="tombol_login" href="index.html" value="SIGN UP">
+			<input type="submit" class="tombol_login" href="signuptes.php" value="SIGN UP">
 
 			<br/>
 			<br/>
