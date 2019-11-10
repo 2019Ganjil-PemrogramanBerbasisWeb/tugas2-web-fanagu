@@ -101,7 +101,7 @@
 		    						<hr>
 		    						<p class="bottom-area d-flex">
 		    							<span><i class="icon-map-o"></i> Malang</span> 
-		    							<span class="ml-auto"><a href="#">Book Now</a></span>
+		    							<span class="ml-auto"><a href="MT-hotel.php">Book Now</a></span>
 		    						</p>
 		    					</div>
 		    				</div>
@@ -134,7 +134,7 @@
 		    						<hr>
 		    						<p class="bottom-area d-flex">
 		    							<span><i class="icon-map-o"></i> Malang</span> 
-		    							<span class="ml-auto"><a href="#">Book Now</a></span>
+		    							<span class="ml-auto"><a href="MT-hotel.php">Book Now</a></span>
 		    						</p>
 		    					</div>
 		    				</div>
@@ -167,7 +167,7 @@
 		    						<hr>
 		    						<p class="bottom-area d-flex">
 		    							<span><i class="icon-map-o"></i> Jepara</span> 
-		    							<span class="ml-auto"><a href="#">Book Now</a></span>
+		    							<span class="ml-auto"><a href="MT-hotel.php">Book Now</a></span>
 		    						</p>
 		    					</div>
 		    				</div>
@@ -200,7 +200,7 @@
 		    						<hr>
 		    						<p class="bottom-area d-flex">
 		    							<span><i class="icon-map-o"></i> Denpasar</span> 
-		    							<span class="ml-auto"><a href="#">Book Now</a></span>
+		    							<span class="ml-auto"><a href="MT-hotel.php">Book Now</a></span>
 		    						</p>
 		    					</div>
 		    				</div>
@@ -233,7 +233,7 @@
 		    						<hr>
 		    						<p class="bottom-area d-flex">
 		    							<span><i class="icon-map-o"></i> Semarang</span> 
-		    							<span class="ml-auto"><a href="#">Book Now</a></span>
+		    							<span class="ml-auto"><a href="MT-hotel.php">Book Now</a></span>
 		    						</p>
 		    					</div>
 		    				</div>
@@ -266,7 +266,7 @@
 		    						<hr>
 		    						<p class="bottom-area d-flex">
 		    							<span><i class="icon-map-o"></i> Bandung</span> 
-		    							<span class="ml-auto"><a href="#">Book Now</a></span>
+		    							<span class="ml-auto"><a href="MT-hotel.php">Book Now</a></span>
 		    						</p>
 		    					</div>
 		    				</div>

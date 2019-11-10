@@ -105,7 +105,7 @@
                 <hr>
                 <p class="bottom-area d-flex">
                   <span><i class="icon-map-o"></i> Magelang</span>
-                  <span class="ml-auto"><a href="#">Open Now</a></span>
+                  <span class="ml-auto"><a href="MT-places.php">Open Now</a></span>
                 </p>
               </div>
             </div>
@@ -138,7 +138,7 @@
                 <hr>
                 <p class="bottom-area d-flex">
                   <span><i class="icon-map-o"></i> Yogyakarta</span>
-                  <span class="ml-auto"><a href="#">Open Now</a></span>
+                  <span class="ml-auto"><a href="MT-places.php">Open Now</a></span>
                 </p>
               </div>
             </div>
@@ -171,7 +171,7 @@
                 <hr>
                 <p class="bottom-area d-flex">
                   <span><i class="icon-map-o"></i> Yogyakarta</span>
-                  <span class="ml-auto"><a href="#">Open Now</a></span>
+                  <span class="ml-auto"><a href="MT-places.php">Open Now</a></span>
                 </p>
               </div>
             </div>
@@ -204,7 +204,7 @@
                 <hr>
                 <p class="bottom-area d-flex">
                   <span><i class="icon-map-o"></i> Yogyakarta</span>
-                  <span class="ml-auto"><a href="#">Open Now</a></span>
+                  <span class="ml-auto"><a href="MT-places.php">Open Now</a></span>
                 </p>
               </div>
             </div>
@@ -237,7 +237,7 @@
                 <hr>
                 <p class="bottom-area d-flex">
                   <span><i class="icon-map-o"></i> Yogyakarta</span>
-                  <span class="ml-auto"><a href="#">Open Now</a></span>
+                  <span class="ml-auto"><a href="MT-places.php">Open Now</a></span>
                 </p>
               </div>
             </div>

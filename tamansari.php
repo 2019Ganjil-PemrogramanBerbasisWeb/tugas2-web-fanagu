@@ -90,7 +90,7 @@
           		<div class="col-md-12 hotel-single mt-4 mb-5 ftco-animate"> 
           			<h2>Taman Sari</h2>
           			<p class="rate mb-3">
-          				<span class="loc"><a href="#"><i class="icon-map"></i> Jl. Komplek Taman Sari, Patehan, Kraton, D.I. Yogyakarta 55133</a></span></p>
+          				<span class="loc"><a href="MT-places.php"><i class="icon-map"></i> Jl. Komplek Taman Sari, Patehan, Kraton, D.I. Yogyakarta 55133</a></span></p>
                   <p>
           				<span class="star">
     							<i class="icon-star"></i>
@@ -131,7 +131,7 @@
 				    						<hr>
 				    						<p class="bottom-area d-flex">
 				    							<span><i class="icon-map-o"></i> Yogyakarta</span>
-				    							<span class="ml-auto"><a href="#">Visit</a></span>
+				    							<span class="ml-auto"><a href="MT-places.php">Visit</a></span>
 				    						</p>
 				    					</div>
 				    				</div>
@@ -157,7 +157,7 @@
 				    						<hr>
 				    						<p class="bottom-area d-flex">
 				    							<span><i class="icon-map-o"></i> Magelang</span>
-				    							<span class="ml-auto"><a href="#">Visit</a></span>
+				    							<span class="ml-auto"><a href="MT-places.php">Visit</a></span>
 				    						</p>
 				    					</div>
 				    				</div>
@@ -183,7 +183,7 @@
 				    						<hr>
 				    						<p class="bottom-area d-flex">
 				    							<span><i class="icon-map-o"></i> Yogyakarta</span>
-				    							<span class="ml-auto"><a href="#">Visit</a></span>
+				    							<span class="ml-auto"><a href="MT-places.php">Visit</a></span>
 				    						</p>
 				    					</div>
 				    				</div>

@@ -315,7 +315,7 @@
                     <li><a href="hotel.php">1</a></li>
                     <li class="active"><a href="hotel2.php">2</a></li>
                     <li><a href="MT-hotel.php">3</a></li>
-                    <li><a href="hotel.php">&gt;</a></li>
+                    <li><a href="MT-hotel.php">&gt;</a></li>
                   </ul>
                 </div>
               </div>

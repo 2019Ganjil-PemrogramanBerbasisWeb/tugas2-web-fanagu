@@ -186,7 +186,7 @@
 		    						<hr>
 		    						<p class="bottom-area d-flex">
 		    							<span><i class="icon-map-o"></i> Sabang</span>
-		    							<span class="ml-auto"><a href="places-kali_biru.html">Discover</a></span>
+		    							<span class="ml-auto"><a href="MT-places.php">Discover</a></span>
 		    						</p>
 		    					</div>
 		    				</div>
@@ -218,7 +218,7 @@
 		    						<hr>
 		    						<p class="bottom-area d-flex">
 		    							<span><i class="icon-map-o"></i> Bukittinggi, Sumatera Barat</span>
-		    							<span class="ml-auto"><a href="#">Discover</a></span>
+		    							<span class="ml-auto"><a href="MT-places.php">Discover</a></span>
 		    						</p>
 		    					</div>
 		    				</div>
@@ -250,7 +250,7 @@
 		    						<hr>
 		    						<p class="bottom-area d-flex">
 		    							<span><i class="icon-map-o"></i> Kepulauan Bangka Belitung</span>
-		    							<span class="ml-auto"><a href="#">Discover</a></span>
+		    							<span class="ml-auto"><a href="MT-places.php">Discover</a></span>
 		    						</p>
 		    					</div>
 		    				</div>
@@ -282,7 +282,7 @@
 		    						<hr>
 		    						<p class="bottom-area d-flex">
 		    							<span><i class="icon-map-o"></i> Bali</span>
-		    							<span class="ml-auto"><a href="#">Discover</a></span>
+		    							<span class="ml-auto"><a href="MT-places.php">Discover</a></span>
 		    						</p>
 		    					</div>
 		    				</div>
@@ -315,7 +315,7 @@
 		    						<hr>
 		    						<p class="bottom-area d-flex">
 		    							<span><i class="icon-map-o"></i> Bali</span>
-		    							<span class="ml-auto"><a href="#">Discover</a></span>
+		    							<span class="ml-auto"><a href="MT-places.php">Discover</a></span>
 		    						</p>
 		    					</div>
 		    				</div>
@@ -347,7 +347,7 @@
 		    						<hr>
 		    						<p class="bottom-area d-flex">
 		    							<span><i class="icon-map-o"></i> Ende, NTT</span>
-		    							<span class="ml-auto"><a href="#">Discover</a></span>
+		    							<span class="ml-auto"><a href="MT-places.php">Discover</a></span>
 		    						</p>
 		    					</div>
 		    				</div>
@@ -357,13 +357,13 @@
 		          <div class="col text-center">
 		            <div class="block-27">
 		              <ul>
-                    <li><a href="MT-places.php">&lt;</a></li>
+                    <li><a href="places3.php">&lt;</a></li>
                     <li><a href="places.php">1</a></li>
                     <li><a href="places2.php">2</a></li>
                     <li><a href="places3.php">3</a></li>
                     <li class="active"><span>4</span></li>
                     <li><a href="MT-places.php">5</a></li>
-                    <li><a href="places.php">&gt;</a></li>
+                    <li><a href="MT-places.php">&gt;</a></li>
 		              </ul>
 		            </div>
 		          </div>

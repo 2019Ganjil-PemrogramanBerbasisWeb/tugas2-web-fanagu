@@ -325,7 +325,7 @@
 		                <li><a href="places3.php">3</a></li>
 		                <li><a href="places4.php">4</a></li>
 		                <li><a href="MT-places.php">5</a></li>
-		                <li><a href="places.php">&gt;</a></li>
+		                <li><a href="places2.php">&gt;</a></li>
 		              </ul>
 		            </div>
 		          </div>

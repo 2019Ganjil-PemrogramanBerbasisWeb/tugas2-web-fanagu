@@ -311,7 +311,7 @@
               <div class="col text-center">
                 <div class="block-27">
                   <ul>
-                    <li><a href="hotel2.php">&lt;</a></li>
+                    <li><a href="MT-hotel.php">&lt;</a></li>
                     <li class="active"><span>1</span></li>
                     <li><a href="hotel2.php">2</a></li>
                     <li><a href="MT-hotel.php">3</a></li>
