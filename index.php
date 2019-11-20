@@ -62,6 +62,7 @@
         <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start" data-scrollax-parent="true">
           <div class="col-md-9 ftco-animate mb-5 pb-5 text-center text-md-left" data-scrollax=" properties: { translateY: '70%' }">
             <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Wonderful <br>Indonesia</h1>
+
             <p data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Memudahkan Liburan Anda</p>
           </div>
         </div>
@@ -79,7 +80,7 @@
           <div class="col-md-12 tab-wrap"> 
             <div class="tab-content p-4 px-5" id="v-pills-tabContent"> 
               <div class="tab-pane fade show active" id="v-pills-1" role="tabpanel" aria-labelledby="v-pills-nextgen-tab">
-                <form action="bali.php" class="search-destination">
+                <form action="hoteljogja.html" class="search-destination">
                   <div class="row"> 
                     <div class="col-md align-items-end">
                       <div class="form-group">
@@ -330,14 +331,14 @@
                 <hr>
                 <p class="bottom-area d-flex">
                   <span><i class="icon-map-o"></i> Yogyakarta</span>
-                  <span class="ml-auto"><a href="tamansari.php">Open Now</a></span>
+                  <span class="ml-auto"><a href="tamansari.html">Open Now</a></span>
                 </p>
               </div>
             </div>
           </div>
           <div class="col-sm col-md-6 col-lg ftco-animate">
             <div class="destination d-md-flex flex-column-reverse">
-              <a href="kalibiru.php" class="img img-2 d-flex justify-content-center align-items-center" style="background-image: url(images/destinasi2.jpg);">
+              <a href="#" class="img img-2 d-flex justify-content-center align-items-center" style="background-image: url(images/destinasi2.jpg);">
                 <div class="icon d-flex justify-content-center align-items-center">
                   <span class="icon-link"></span>
                 </div>
@@ -345,7 +346,7 @@
               <div class="text p-3">
                 <div class="d-flex">
                   <div class="one">
-                    <h3><a href="kalibiru.php">Kalibiru, Kulonprogo</a></h3>
+                    <h3><a href="#">Kalibiru, Kulonprogo</a></h3>
                     <p class="rate">
                       <i class="icon-star"></i>
                       <i class="icon-star"></i>
@@ -363,7 +364,7 @@
                 <hr>
                 <p class="bottom-area d-flex">
                   <span><i class="icon-map-o"></i> Yogyakarta</span>
-                  <span class="ml-auto"><a href="kalibiru.php">Open Now</a></span>
+                  <span class="ml-auto"><a href="#">Open Now</a></span>
                 </p>
               </div>
             </div>
@@ -595,6 +596,48 @@
         </div>
       </div>
     </section>
+
+    <section class="ftco-section">
+      <div class="container">
+        <div class="row justify-content-center mb-5 pb-3">
+          <div class="col-md-7 heading-section text-center ftco-animate">
+            <h3 class="mb-4">Yuk Kenalkan Destinasi Wisata Daerahmu !</h3>
+            <h4>melalui Website Mlaku.id</h4>
+          </div>
+        </div>
+      </div>
+          <div class="col-md-12 tab-wrap"> 
+            <div class="tab-content p-4 px-5" id="v-pills-tabContent"> 
+              <div class="tab-pane fade show active" id="v-pills-1" role="tabpanel" aria-labelledby="v-pills-nextgen-tab">
+                <form action="upload.html" class="search-destination">
+                  <div class="row"> 
+                    <div class="col-md align-self-end">
+                      <div class="form-group">
+                        <div class="form-field">
+                          <h5>Upload File</h5>
+                          <input type="submit" value="Upload" class="form-control btn btn-primary">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </form>
+                <form action="uploads/index.php" class="search-destination">
+                  <div class="row"> 
+                    <div class="col-md align-self-end">
+                      <div class="form-group">
+                        <div class="form-field">
+                          <h5>List File & Downlod</h5>
+                          <input type="submit" value="List & Download" class="form-control btn btn-primary">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+    </section>
+
 
     <footer class="ftco-footer ftco-bg-dark ftco-section">
       <div class="container">
